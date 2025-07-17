@@ -1,0 +1,18 @@
+{
+  "name": "minimal-step-function-bug",
+  "version": "1.0.0",
+  "description": "Minimal example of a step function sst bug",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "sst": "^3.17.10"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
